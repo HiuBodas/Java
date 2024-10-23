@@ -37,7 +37,7 @@ public class main {
         }
          class mobil extends kendaraan{
          static void nyala(String name){
-                System.out.println(name + " nyalakan mesinn");
+                System.out.println(name + " nyalakan Andwi");
             }
              
 }
